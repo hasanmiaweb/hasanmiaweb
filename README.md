@@ -16,5 +16,5 @@
 <a href="https://www.hasanmiaweb.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
 # Contact:
-[Email](kaziamithasan89@gmail.com)
-#### +8801740398196
+#### Email:  hasanmiaweb@gmail.com
+#### Mobile: +8801740398196
