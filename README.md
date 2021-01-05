@@ -2,7 +2,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://raw.githubusercontent.com/hasanmiaweb/web-portfolio/main/image/profile.png" />
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+*** Welcome to my github profile. I am a professional front-end web developer.
  
 - 🔭 I’m currently a CS student at Mansoura Unversity.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
