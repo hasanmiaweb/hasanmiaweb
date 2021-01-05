@@ -16,4 +16,5 @@
 <a href="https://www.hasanmiaweb.com" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/www.png" alt="Website" width="30"></a>
 
 # Contact:
-*Email: [Website](https://amithasanshuvo.github.io/), [LinkedIn](https://www.linkedin.com/in/kazi-amit-hasan/), [Email](kaziamithasan89@gmail.com)
+[Email](kaziamithasan89@gmail.com)
+#### +8801740398196
