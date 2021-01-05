@@ -8,11 +8,6 @@
 - :computer: I’m currently learning front-end | backend web development at [programming-hero](https://www.programming-hero.com/)
 - :love_letter: I’m looking for a software development internship. 
 # Follow On.
-
-##### MOTTO
-
-> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
-
 ####
 
 <a href="https://www.facebook.com/artuurs.smirnovs" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/fb.png" alt="Facebook" width="30"></a>
