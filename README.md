@@ -5,7 +5,7 @@
 #### Welcome to my github profile. I am a professional front-end web developer.
  
  - :police_officer: I am currently a diploma student at Bangladesh Polytechnic Institute rajshahi.
-- :computer: I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- :computer: I’m currently learning front-end | backend web development at [programming-hero](programming-hero.com)
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
 
