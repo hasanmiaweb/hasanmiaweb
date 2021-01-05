@@ -4,7 +4,11 @@
 
 #### Welcome to my github profile. I am a professional front-end web developer.
  
-- 🔭 I’m currently a CS student at Mansoura Unversity.
+ ##### I am currently a diploma student at Bangladesh Polytechnic Institute rajshahi.
+ ##### I am currently a diploma student at Bangladesh Polytechnic Institute rajshahi.
+ ##### I am currently a diploma student at Bangladesh Polytechnic Institute rajshahi.
+ ##### I am currently a diploma student at Bangladesh Polytechnic Institute rajshahi.
+ ##### I am currently a diploma student at Bangladesh Polytechnic Institute rajshahi.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
